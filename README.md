@@ -12,13 +12,13 @@ TODO
 
 Below is a list of essential links MODX and MODX Revolution.
 
-### MODX In General
+#### MODX In General
 
 - [MODX.com](http://modx.com/) - Official website
 - [MODX.org](http://modx.org/) - Join MODX Community on Slack
 - [MODX.today](https://modx.today/) - Various news about MODX
 
-### MODX Revolution
+#### MODX Revolution
 - [Download MODX Revolution](https://modx.com/download/)
 - [MODX Revolution on GitHub](https://github.com/modxcms/revolution)
 
@@ -26,7 +26,7 @@ Below is a list of essential links MODX and MODX Revolution.
 
 Below is a list of recommended extras for MODX Revolution. They are categorized after type of Extra.
 
-### Rich Text Editor
+#### Rich Text Editor
 
 - [TinyMCE Rich Text Editor](https://modx.com/extras/package/tinymcerichtexteditor) - Wonderful Extra for the TinyMCE RTE.
 
@@ -36,4 +36,4 @@ TODO
 
 ## Credit
 
-See 
+See [repo contributors](https://github.com/OptimusCrime/awesome-modx-revo/graphs/contributors).
