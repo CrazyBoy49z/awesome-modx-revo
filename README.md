@@ -41,7 +41,7 @@ Below is a list of essential links for MODX and MODX Revolution.
 
 #### Other Communities
 
-- [modmore](modmore.com) - Premium Extras & More for MODX
+- [modmore](https://modmore.com) - Premium Extras & More for MODX
 - [modx.pro](https://modx.pro/) - MODX news and discussions. Solutions for setting up and developing in MODX. Job center and crowdfunding. Hosting and suppliments store.
 
 ## Blogs
@@ -61,9 +61,102 @@ Below is a list of some MODX related blogs.
 
 Below is a list of recommended extras for MODX Revolution. They are categorized after type of Extra.
 
-#### Rich Text Editor
+#### Administration
+
+- [Redirector](https://modx.com/extras/package/redirector) - Handles 301 redirects for your site, storing them in an easy-to-navigate grid.
+- [UiCMPGenerator](https://modx.com/extras/package/uicmpgenerator) - UICMPGenerator generates the xpdo scheme files and xpdo classes for your custom database tables.
+
+#### Blogging
+
+Nothing here yet.
+
+#### Commenting & Feedback
+
+Nothing here yet.
+
+#### Communication
+
+Nothing here yet.
+
+#### Content
+
+Nothing here yet.
+
+#### Core Extentions
+
+Nothing here yet.
+
+#### E-Commerce
+
+Nothing here yet.
+
+#### Email
+
+Nothing here yet.
+
+#### Feeds
+
+Nothing here yet.
+
+#### Forms
+
+Nothing here yet.
+
+#### Gallery
+
+Nothing here yet.
+
+#### Integrations
+
+Nothing here yet.
+
+#### Internationalization
+
+Nothing here yet.
+
+#### Menu
+
+Nothing here yet.
+
+#### Multimedia
+
+Nothing here yet.
+
+#### Navigation
+
+Nothing here yet.
+
+#### News
+
+Nothing here yet.
+
+#### Personalization
+
+Nothing here yet.
+
+#### Richtext Editors
 
 - [TinyMCE Rich Text Editor](https://modx.com/extras/package/tinymcerichtexteditor) - Wonderful Extra for the TinyMCE RTE.
+
+#### Search
+
+Nothing here yet.
+
+#### Security
+
+Nothing here yet.
+
+#### Site Packages
+
+Nothing here yet.
+
+#### Style
+
+Nothing here yet.
+
+#### Other
+
+Nothing here yet.
 
 ## Contribute
 
