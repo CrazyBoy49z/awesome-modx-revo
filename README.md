@@ -6,7 +6,13 @@ A curated list of awesome stuff for MODX Revolution.
 
 ## Table of Contents
 
-TODO
+- [Essential Links](#essential-links)
+    - [MODX In General](#modx-in-general)
+    - [MODX Revolution](#modx-revolution)
+- [Recommended Extras](#recommended-extras)
+    - [Rich Text Editor](#rich-text-editor)
+- [Contribute](#contribute)
+- [Credit](#credit) 
 
 ## Essential Links
 
@@ -36,4 +42,4 @@ TODO
 
 ## Credit
 
-See [repo contributors](https://github.com/OptimusCrime/awesome-modx-revo/graphs/contributors).
+See [contributors](https://github.com/OptimusCrime/awesome-modx-revo/graphs/contributors).
