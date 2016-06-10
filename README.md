@@ -12,6 +12,7 @@ A curated list of awesome stuff for MODX Revolution.
     - [MODX Hosting](#modx-hosting)
     - [Other Communities](#other-communities)
 - [Blogs](#blogs)
+- [Help Resources](#help-resources)
 - [Recommended Extras](#recommended-extras)
     - [Rich Text Editor](#rich-text-editor)
 - [Contribute](#contribute)
@@ -24,7 +25,7 @@ Below is a list of essential links for MODX and MODX Revolution.
 #### MODX In General
 
 - [MODX.com](http://modx.com/) - Official MODX website
-- [MODX forums](http://modx.com/forums) - The official MODX community forum
+- [MODX Forums](http://modx.com/forums) - The official MODX community forum
 - [MODX.org](http://modx.org/) - Join MODX Community on Slack
 - [MODX.today](https://modx.today/) - Various news about MODX
 
@@ -49,6 +50,12 @@ Below is a list of some MODX related blogs.
 
 - [OptimusCrime.net](https://optimuscrime.net/) - MODX enthusiast that occasionally shares his thoughts about whatever
 - [jasoncoward.com](http://jasoncoward.com/) - Co-founder & lead architect of MODX
+
+## Help Resources
+
+- [Documentations](https://rtfm.modx.com/) - Official MODX documentation
+- [Bob's Guides](http://bobsguides.com/) - Contains MANY guides
+- [MODX Cookbook](http://modxcookbook.com/) - Tips, tricks and How-Tos from the MODX forums
 
 ## Recommended Extras
 
