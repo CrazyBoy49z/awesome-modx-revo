@@ -27,16 +27,17 @@ A curated list of awesome stuff for MODX Revolution.
 - [MODX.org](http://modx.org/) - Join MODX Community on Slack.
 
 ### MODX Revolution
-*Links for MODX Revolution*
+*Links for MODX Revolution.*
 
 - [Download MODX Revolution](https://modx.com/download/)
 - [MODX Revolution on GitHub](https://github.com/modxcms/revolution)
 
 ### MODX News
-*Places to find news about MODX*
+*Places to find news about MODX.*
 
 - [MODX.com/blog](https://modx.com/blog/) - Official News Blog.
 - [MODX.today](https://modx.today/) - Various news about MODX.
+- [Official MODX Twitter account](https://twitter.com/modx)
 
 ### MODX Hosting
 *Hosting services that specializes in MODX hosting.*
@@ -75,6 +76,13 @@ A curated list of awesome stuff for MODX Revolution.
 - [MODX Cookbook](http://modxcookbook.com/) - Tips, tricks and How-Tos from the MODX forums.
 - [Discover MODX](http://www.discovermodx.com/) - Tutorials from beginner or novice to advance guru status
 
+## MODX Books
+*Books about MODX.*
+
+- [MODX: The Official Guide](https://modx.com/learn/modx-books/modx-the-official-guide/) - Building dynamic websites with the MODX content management platform.
+- [MODX Revolution - Building the Web Your Way](https://www.amazon.com/dp/0985853204/) - A Journey Through a Content Management Framework
+- [MODx Web Development - Second Edition](https://www.amazon.com/MODx-Development-Antano-Solar-John/dp/1849513481/)
+
 ## Recommended Extras
 *Recommended extras for MODX Revolution. Categorized after type.*
 
@@ -82,15 +90,12 @@ A curated list of awesome stuff for MODX Revolution.
 *Extras used to ease administration.*
 
 - [Redirector](https://modx.com/extras/package/redirector) - Handles 301 redirects for your site, storing them in an easy-to-navigate grid.
-- [UiCMPGenerator](https://modx.com/extras/package/uicmpgenerator) - UICMPGenerator generates the xpdo scheme files and xpdo classes for your custom database tables.
-
-### Blogging
-
-Nothing here yet.
+- [VersionX](https://modx.com/extras/package/versionx) - VersionX is a utility tool for MODX Revolution that will help you version your content in Resources, Templates, Chunks, Snippets and Plugins.
+- [XRouting](https://modx.com/extras/package/xrouting) - XRouting is a simple plugin that handles requests for different contexts. It automatically switches the context based on a (sub)domain AND/OR subfolder.
 
 ### Commenting & Feedback
 
-Nothing here yet.
+- [Quip](https://modx.com/extras/package/quip) - A simple commenting system for MODx Revolution, complete with a backend management interface.
 
 ### Communication
 
@@ -101,8 +106,35 @@ Nothing here yet.
 Nothing here yet.
 
 ### Core Extentions
+*Extentions done to the core functionality of MODX.*
 
-Nothing here yet.
+- [modxSmarty](https://modx.com/extras/package/modxsmarty) - Uses MODX-Smarty class and allow to use MODX-tags in Smarty-templates.
+
+### Custom Resource Classes
+*Extras that implement custom resource classes.*
+
+- [Collections](https://modx.com/extras/package/collections) - Adds a custom CollectionContainer resource class that hides direct children.
+- [Grid Class Key](https://modx.com/extras/package/gridclasskey) - A custom class key for MODX Revolution's Manager to hide child resources inside container's grid.
+
+### Custom Template Variable Types
+*Extras that implement new custom TV types.*
+
+- [MIGX](https://modx.com/extras/package/migx) - Custom-tv-input-type for adding multiple items into one TV-value and a snippet for listing this items on your frontend.
+
+### Debugging
+*Easier debugging in MODX Revolution.*
+
+- [Bloodline](https://modx.com/extras/package/bloodline) - Bloodline summarizes all components used to generate a MODX page so you can quickly find the Chunks, Snippets, or TVs responsible for generating a particular part of a page.
+- [controlErrorLog](https://modx.com/extras/package/controlerrorlog) - Error log in a popup in the manager views. Email notification about changes in the error log.
+- [xBug](https://modx.com/extras/package/xbug) - Utility extra that can be used to profile page loads, xPDOQuery objects, and SQL Queries.
+
+### Development
+*Extras that does development easier.*
+
+- [ElementHelper](https://modx.com/extras/package/elementhelper) - Plugin for automatically creating elements from static files without the MODx manager.
+- [modDevTools](https://modx.com/extras/package/moddevtools) - A component that helps developers faster and easier to work in the admin panel of MODX Revolution.
+- [tagElementPlugin](https://modx.com/extras/package/tagelementplugin) - A MODx Revolution Plugin which allows to edit chunks and snippets selecting their tags in the textarea field of resource, chunk or template forms.
+- [UiCMPGenerator](https://modx.com/extras/package/uicmpgenerator) - UICMPGenerator generates the xpdo scheme files and xpdo classes for your custom database tables.
 
 ### E-Commerce
 
@@ -123,6 +155,11 @@ Nothing here yet.
 ### Gallery
 
 Nothing here yet.
+
+### General Purpose
+*Extras that can be used to a lot of different things.*
+
+- [getResources](https://modx.com/extras/package/getresources) - Listing and summarization snippet for MODx Revolution
 
 ### Integrations
 
@@ -182,6 +219,6 @@ Nothing here yet.
 TODO
 
 ## Credit
-*Credits for Awesome MODX Revolution*
+*Credits for Awesome MODX Revolution.*
 
 See [contributors](https://github.com/OptimusCrime/awesome-modx-revo/graphs/contributors).
