@@ -67,6 +67,7 @@ A curated list of awesome stuff for MODX Revolution.
 - [optimuscrime.net](https://optimuscrime.net/) - MODX enthusiast that occasionally writes his thoughts about MODX.
 - [jasoncoward.com](http://jasoncoward.com/) - Co-founder & lead architect of MODX.
 - [stercx.com](https://www.stercx.com/modx-blog/)
+- [hkwebdeveloper.com] (http://www.hkwebdeveloper.com/) - MODX developer based in Hong Kong.
 
 ## Help Resources
 *Having a problem? Solution may lie within.*
