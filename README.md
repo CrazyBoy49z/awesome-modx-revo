@@ -141,6 +141,7 @@ Nothing here yet.
 *Extras that implement new custom TV types.*
 
 - [MIGX](https://modx.com/extras/package/migx) - Custom-tv-input-type for adding multiple items into one TV-value and a snippet for listing this items on your frontend.
+- [prism](https://modx.com/extras/package/prism) - Lightweight extra that adds a ColorPicker Input Type to your Template Variables.
 
 ### Debugging
 *Easier debugging in MODX Revolution.*
