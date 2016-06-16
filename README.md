@@ -1,17 +1,29 @@
 # Awesome MODX Revolution
-A curated list of awesome stuff for MODX Revolution.
+>A curated list of awesome stuff for MODX Revolution.
 
 **This list is currently work in progress!**
 
 ## Table of Contents
 - [Essential Links](#essential-links)
     - [MODX In General](#modx-in-general)
+    - [Official MODX Social Channels](#official-modx-social-channels)
     - [MODX Revolution](#modx-revolution)
+    - [MODX News](#modx-news)
     - [MODX Hosting](#modx-hosting)
     - [Other Communities](#other-communities)
+    - [Third Party Extra Repos](#third-party-extra-repos)
 - [Blogs](#blogs)
 - [Help Resources](#help-resources)
+- [MODX Books](#modx-books)
 - [Recommended Extras](#recommended-extras)
+    - [Administration](#administration)
+    - [Commenting & Feedback](#commenting--feedback)
+    - [Core Extentions](#core-extentions)
+    - [Custom Resource Classes](#custom-resource-classes)
+    - [Custom Template Variable Types](#custom-template-variable-types)
+    - [Debugging](#debugging)
+    - [Development](#development)
+    - [General Purpose](#general-purpose)
     - [Rich Text Editor](#rich-text-editor)
 - [Contribute](#contribute)
 - [Credit](#credit) 
@@ -24,7 +36,13 @@ A curated list of awesome stuff for MODX Revolution.
 
 - [MODX.com](http://modx.com/) - Official MODX website.
 - [MODX Forums](http://modx.com/forums) - The official MODX community forum.
+
+### Official MODX Social Channels
+*Official, social channels for MODX.*
+
+- [Official MODX Twitter account](twitter.com/modx)
 - [MODX.org](http://modx.org/) - Join MODX Community on Slack.
+- [MODX Community on Slack](https://modxcommunity.slack.com/)
 
 ### MODX Revolution
 *Links for MODX Revolution.*
@@ -68,6 +86,7 @@ A curated list of awesome stuff for MODX Revolution.
 - [jasoncoward.com](http://jasoncoward.com/) - Co-founder & lead architect of MODX.
 - [stercx.com](https://www.stercx.com/modx-blog/)
 - [hkwebdeveloper.com] (http://www.hkwebdeveloper.com/) - MODX developer based in Hong Kong.
+- [sepiariver.ca](https://www.sepiariver.ca/blog/)
 
 ## Help Resources
 *Having a problem? Solution may lie within.*
@@ -95,6 +114,7 @@ A curated list of awesome stuff for MODX Revolution.
 - [XRouting](https://modx.com/extras/package/xrouting) - XRouting is a simple plugin that handles requests for different contexts. It automatically switches the context based on a (sub)domain AND/OR subfolder.
 
 ### Commenting & Feedback
+*Commenting and feedback solutions for MODX Revolution.*
 
 - [Quip](https://modx.com/extras/package/quip) - A simple commenting system for MODx Revolution, complete with a backend management interface.
 
@@ -191,7 +211,10 @@ Nothing here yet.
 Nothing here yet.
 
 ### Richtext Editors
+*Various richtext editors.*
 
+- [Ace](http://modx.com/extras/package/ace) - Ace Provides best syntax highlighting and desktop-editors behavior (Sublime, Vim, Textmate) in your Elements, Files and Resources.
+- [CodeMirror](https://modx.com/extras/package/codemirror) - Custom syntax highlighting in Elements.
 - [TinyMCE Rich Text Editor](https://modx.com/extras/package/tinymcerichtexteditor) - Wonderful Extra for the TinyMCE RTE.
 
 ### Search
