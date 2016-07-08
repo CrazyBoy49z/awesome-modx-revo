@@ -62,6 +62,7 @@
 
 - [MODX Cloud](https://modxcloud.com/) - Secure, Fast, Expertly-tuned MODX Hosting.
 - [SkyToaster](https://skytoaster.com/) - SkyToaster offers personalized web hosting & hands-on support.
+- [Modhost](https://modhost.pro/) — specialized hosting for MODX Revolution with fast installation or updates and integration of [modstore.pro](https://modstore.pro/).
 
 ### Other Communities
 *Other MODX communities besides the official forums and websites.*
