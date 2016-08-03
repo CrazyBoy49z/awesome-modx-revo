@@ -1,8 +1,6 @@
 # Awesome MODX Revolution
 >A curated list of awesome stuff for MODX Revolution.
 
-**This list is currently work in progress!**
-
 ## Table of Contents
 - [Essential Links](#essential-links)
     - [MODX In General](#modx-in-general)
@@ -23,6 +21,8 @@
     - [Custom Template Variable Types](#custom-template-variable-types)
     - [Debugging](#debugging)
     - [Development](#development)
+    - [Element Synchronization](#element-synchronization)
+    - [Extra Development](#extra-development)
     - [General Purpose](#general-purpose)
     - [Rich Text Editor](#rich-text-editor)
 - [Contribute](#contribute)
@@ -107,6 +107,8 @@
 ## Recommended Extras
 *Recommended extras for MODX Revolution. Categorized after type.*
 
+Note: Extras marked with [!] have to be built manually from source because they are not available from any extra repos.
+
 ### Administration
 *Extras used to ease administration.*
 
@@ -120,11 +122,9 @@
 - [Quip](https://modx.com/extras/package/quip) - A simple commenting system, complete with a backend management interface.
 
 ### Communication
-
 Nothing here yet.
 
 ### Content
-
 Nothing here yet.
 
 ### Core Extentions
@@ -160,23 +160,31 @@ Nothing here yet.
 - [UiCMPGenerator](https://modx.com/extras/package/uicmpgenerator) - Generates the xPDO scheme files and xPDO classes for your custom database tables.
 
 ### E-Commerce
-
 Nothing here yet.
 
 ### Email
-
 Nothing here yet.
 
-### Feeds
+### Element Synchronization
+*Extras that synchronizes between static files and MODX Elements.*
 
+- [ElementHelper](http://modx.com/extras/package/elementhelper) - Plugin for automatically creating elements from static files without using the manager interface.
+- [MODX-Mirror](https://github.com/digitalbutter/MODX-Mirror)[!] - Synchronizes elements (templates, chunks, plugins and snippets) from filesystem with database and reverse.
+- [StaticCollector](https://github.com/OptimusCrime/modx-staticcollector)[!] - Extra for easing development with static resources.
+- [StaticSaver](http://modx.com/extras/package/staticsaver) - Plugin that automatically sets up the name of file and media source of element (template, chunk, snippet, TV or plugin) when wanting to make this element be static.
+
+### Extra Development
+*Extras used to develop other Extras.*
+
+- [MyComponent](http://modx.com/extras/package/mycomponent) - Automates many of the tasks involved in creating a transport package for a Extra.
+
+### Feeds
 Nothing here yet.
 
 ### Forms
-
 Nothing here yet.
 
 ### Gallery
-
 Nothing here yet.
 
 ### General Purpose
@@ -185,31 +193,24 @@ Nothing here yet.
 - [getResources](https://modx.com/extras/package/getresources) - Listing and summarization snippet.
 
 ### Integrations
-
 Nothing here yet.
 
 ### Internationalization
-
 Nothing here yet.
 
 ### Menu
-
 Nothing here yet.
 
 ### Multimedia
-
 Nothing here yet.
 
 ### Navigation
-
 Nothing here yet.
 
 ### News
-
 Nothing here yet.
 
 ### Personalization
-
 Nothing here yet.
 
 ### Richtext Editors
@@ -220,23 +221,18 @@ Nothing here yet.
 - [TinyMCE Rich Text Editor](https://modx.com/extras/package/tinymcerichtexteditor) - Extra for the TinyMCE RTE.
 
 ### Search
-
 Nothing here yet.
 
 ### Security
-
 Nothing here yet.
 
 ### Site Packages
-
 Nothing here yet.
 
 ### Style
-
 Nothing here yet.
 
 ### Other
-
 Nothing here yet.
 
 ## Contribute
