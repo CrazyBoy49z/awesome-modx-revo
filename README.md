@@ -111,13 +111,13 @@
 *Extras used to ease administration.*
 
 - [Redirector](https://modx.com/extras/package/redirector) - Handles 301 redirects for your site, storing them in an easy-to-navigate grid.
-- [VersionX](https://modx.com/extras/package/versionx) - VersionX is a utility tool for MODX Revolution that will help you version your content in Resources, Templates, Chunks, Snippets and Plugins.
-- [XRouting](https://modx.com/extras/package/xrouting) - XRouting is a simple plugin that handles requests for different contexts. It automatically switches the context based on a (sub)domain AND/OR subfolder.
+- [VersionX](https://modx.com/extras/package/versionx) - Utility tool that will help you version your content in Resources, Templates, Chunks, Snippets and Plugins.
+- [XRouting](https://modx.com/extras/package/xrouting) - Plugin that handles requests for different contexts. It automatically switches the context based on a (sub)domain AND/OR subfolder.
 
 ### Commenting & Feedback
 *Commenting and feedback solutions for MODX Revolution.*
 
-- [Quip](https://modx.com/extras/package/quip) - A simple commenting system for MODx Revolution, complete with a backend management interface.
+- [Quip](https://modx.com/extras/package/quip) - A simple commenting system, complete with a backend management interface.
 
 ### Communication
 
@@ -136,7 +136,7 @@ Nothing here yet.
 *Extras that implement custom resource classes.*
 
 - [Collections](https://modx.com/extras/package/collections) - Adds a custom CollectionContainer resource class that hides direct children.
-- [Grid Class Key](https://modx.com/extras/package/gridclasskey) - A custom class key for MODX Revolution's Manager to hide child resources inside container's grid.
+- [Grid Class Key](https://modx.com/extras/package/gridclasskey) - A custom class key to hide child resources inside container's grid.
 
 ### Custom Template Variable Types
 *Extras that implement new custom TV types.*
@@ -147,7 +147,7 @@ Nothing here yet.
 ### Debugging
 *Easier debugging in MODX Revolution.*
 
-- [Bloodline](https://modx.com/extras/package/bloodline) - Bloodline summarizes all components used to generate a MODX page so you can quickly find the Chunks, Snippets, or TVs responsible for generating a particular part of a page.
+- [Bloodline](https://modx.com/extras/package/bloodline) - Bloodline summarizes all components used to generate a page so you can quickly find the Chunks, Snippets, or TVs responsible for generating a particular part of a page.
 - [controlErrorLog](https://modx.com/extras/package/controlerrorlog) - Error log in a popup in the manager views. Email notification about changes in the error log.
 - [xBug](https://modx.com/extras/package/xbug) - Utility extra that can be used to profile page loads, xPDOQuery objects, and SQL Queries.
 
@@ -155,9 +155,9 @@ Nothing here yet.
 *Extras that does development easier.*
 
 - [ElementHelper](https://modx.com/extras/package/elementhelper) - Plugin for automatically creating elements from static files without the MODx manager.
-- [modDevTools](https://modx.com/extras/package/moddevtools) - A component that helps developers faster and easier to work in the admin panel of MODX Revolution.
-- [tagElementPlugin](https://modx.com/extras/package/tagelementplugin) - A MODx Revolution Plugin which allows to edit chunks and snippets selecting their tags in the textarea field of resource, chunk or template forms.
-- [UiCMPGenerator](https://modx.com/extras/package/uicmpgenerator) - UICMPGenerator generates the xpdo scheme files and xpdo classes for your custom database tables.
+- [modDevTools](https://modx.com/extras/package/moddevtools) - Makes it faster and easier to work in the manager panel.
+- [tagElementPlugin](https://modx.com/extras/package/tagelementplugin) - Plugin which allows to edit chunks and snippets selecting their tags in the textarea field of resource, chunk or template forms.
+- [UiCMPGenerator](https://modx.com/extras/package/uicmpgenerator) - Generates the xPDO scheme files and xPDO classes for your custom database tables.
 
 ### E-Commerce
 
@@ -182,7 +182,7 @@ Nothing here yet.
 ### General Purpose
 *Extras that can be used to a lot of different things.*
 
-- [getResources](https://modx.com/extras/package/getresources) - Listing and summarization snippet for MODx Revolution
+- [getResources](https://modx.com/extras/package/getresources) - Listing and summarization snippet.
 
 ### Integrations
 
@@ -215,9 +215,9 @@ Nothing here yet.
 ### Richtext Editors
 *Various richtext editors.*
 
-- [Ace](http://modx.com/extras/package/ace) - Ace Provides best syntax highlighting and desktop-editors behavior (Sublime, Vim, Textmate) in your Elements, Files and Resources.
+- [Ace](http://modx.com/extras/package/ace) - Provides syntax highlighting and desktop-editors behavior (Sublime, Vim, Textmate) in your Elements, Files and Resources.
 - [CodeMirror](https://modx.com/extras/package/codemirror) - Custom syntax highlighting in Elements.
-- [TinyMCE Rich Text Editor](https://modx.com/extras/package/tinymcerichtexteditor) - Wonderful Extra for the TinyMCE RTE.
+- [TinyMCE Rich Text Editor](https://modx.com/extras/package/tinymcerichtexteditor) - Extra for the TinyMCE RTE.
 
 ### Search
 
