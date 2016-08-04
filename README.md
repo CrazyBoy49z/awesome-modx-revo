@@ -168,6 +168,7 @@ Nothing here yet.
 ### Element Synchronization
 *Extras that synchronizes between static files and MODX Elements.*
 
+
 - [ElementHelper](http://modx.com/extras/package/elementhelper) - Plugin for automatically creating elements from static files without using the manager interface.
 - [MODX-Mirror](https://github.com/digitalbutter/MODX-Mirror)[!] - Synchronizes elements (templates, chunks, plugins and snippets) from filesystem with database and reverse.
 - [StaticCollector](https://github.com/OptimusCrime/modx-staticcollector)[!] - Extra for easing development with static resources.
@@ -177,6 +178,8 @@ Nothing here yet.
 *Extras used to develop other Extras.*
 
 - [MyComponent](http://modx.com/extras/package/mycomponent) - Automates many of the tasks involved in creating a transport package for a Extra.
+- [Git-Package-Management](http://theboxer.github.io/Git-Package-Management/installation/) - Manage, develop and package extras from a simple CMP. 
+- [generator-bxrextra](https://github.com/theboxer/generator-bxrextra) - A generator to quickly create a basic extra including ExtJS CMP.
 
 ### Feeds
 Nothing here yet.
@@ -190,6 +193,7 @@ Nothing here yet.
 ### General Purpose
 *Extras that can be used to a lot of different things.*
 
+- [pdoTools](https://modx.com/extras/package/pdotools) - A collection of popular snippets for common tasks.
 - [getResources](https://modx.com/extras/package/getresources) - Listing and summarization snippet.
 
 ### Integrations
@@ -216,9 +220,16 @@ Nothing here yet.
 ### Richtext Editors
 *Various richtext editors.*
 
+- [TinyMCE Rich Text Editor](https://modx.com/extras/package/tinymcerichtexteditor) - Extra for the TinyMCE RTE.
+- [TinymceWrapper](https://modx.com/extras/package/tinymcewrapper) - Wrapper for always latest version of TinyMCE. Also includes image gallery, elFinder etc.
+- [Redactor](https://www.modmore.com/redactor/) - Redactor RTE by Modmore. Premium Extra.
+- [Markdown Editor](http://theboxer.github.io/markdown-editor/contributing/) - Markdown Editor for MODX.
+
+### Element Editors
+*Text editors for code.*
+
 - [Ace](http://modx.com/extras/package/ace) - Provides syntax highlighting and desktop-editors behavior (Sublime, Vim, Textmate) in your Elements, Files and Resources.
 - [CodeMirror](https://modx.com/extras/package/codemirror) - Custom syntax highlighting in Elements.
-- [TinyMCE Rich Text Editor](https://modx.com/extras/package/tinymcerichtexteditor) - Extra for the TinyMCE RTE.
 
 ### Search
 Nothing here yet.
