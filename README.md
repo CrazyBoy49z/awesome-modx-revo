@@ -115,6 +115,7 @@ Note: Extras marked with [!] have to be built manually from source because they 
 - [Redirector](https://modx.com/extras/package/redirector) - Handles 301 redirects for your site, storing them in an easy-to-navigate grid.
 - [VersionX](https://modx.com/extras/package/versionx) - Utility tool that will help you version your content in Resources, Templates, Chunks, Snippets and Plugins.
 - [XRouting](https://modx.com/extras/package/xrouting) - Plugin that handles requests for different contexts. It automatically switches the context based on a (sub)domain AND/OR subfolder.
+- [modDevTools](https://docs.modx.pro/en/components/moddevtools) - Tabs with lists and links for associated elements and resources, a crumb trail for resources, and other useful tools for Managers.
 
 ### Commenting & Feedback
 *Commenting and feedback solutions for MODX Revolution.*
