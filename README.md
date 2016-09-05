@@ -145,7 +145,7 @@ Nothing here yet.
 - [MIGX](https://modx.com/extras/package/migx) - Custom-tv-input-type for adding multiple items into one TV-value and a snippet for listing this items on your frontend.
 - [prism](https://modx.com/extras/package/prism) - Lightweight extra that adds a ColorPicker Input Type to your Template Variables.
 - [Image+](https://modx.com/extras/package/imageplustvinput) - Advanced Image custom template variable type, allowing you to crop and resize images without modifying the source. Visual Image cropping tool integrated into the MODX manager interface.
-- [Image+](https://modx.com/extras/package/imageplustvinput) - Advanced Image custom template variable type, allowing you to crop and resize images without modifying the source. Visual Image cropping tool integrated into the MODX manager interface.
+- [DateRangeTV](http://modx.com/extras/package/daterangetv) - Custom template variable with two depending datepicker inputs. Could be used to insert a date range in a MODX resource. 
 
 ### Debugging
 *Easier debugging in MODX Revolution.*
