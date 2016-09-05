@@ -144,6 +144,8 @@ Nothing here yet.
 
 - [MIGX](https://modx.com/extras/package/migx) - Custom-tv-input-type for adding multiple items into one TV-value and a snippet for listing this items on your frontend.
 - [prism](https://modx.com/extras/package/prism) - Lightweight extra that adds a ColorPicker Input Type to your Template Variables.
+- [Image+](https://modx.com/extras/package/imageplustvinput) - Advanced Image custom template variable type, allowing you to crop and resize images without modifying the source. Visual Image cropping tool integrated into the MODX manager interface.
+- [DateRangeTV](http://modx.com/extras/package/daterangetv) - Custom template variable with two depending datepicker inputs. Could be used to insert a date range in a MODX resource. 
 
 ### Debugging
 *Easier debugging in MODX Revolution.*
@@ -151,6 +153,7 @@ Nothing here yet.
 - [Bloodline](https://modx.com/extras/package/bloodline) - Bloodline summarizes all components used to generate a page so you can quickly find the Chunks, Snippets, or TVs responsible for generating a particular part of a page.
 - [controlErrorLog](https://modx.com/extras/package/controlerrorlog) - Error log in a popup in the manager views. Email notification about changes in the error log.
 - [xBug](https://modx.com/extras/package/xbug) - Utility extra that can be used to profile page loads, xPDOQuery objects, and SQL Queries.
+- [debugParser](https://modx.com/extras/package/debugparser) - Component that will show you slow tags on webpage.
 
 ### Development
 *Extras that does development easier.*
@@ -168,7 +171,6 @@ Nothing here yet.
 
 ### Element Synchronization
 *Extras that synchronizes between static files and MODX Elements.*
-
 
 - [ElementHelper](http://modx.com/extras/package/elementhelper) - Plugin for automatically creating elements from static files without using the manager interface.
 - [MODX-Mirror](https://github.com/digitalbutter/MODX-Mirror)[!] - Synchronizes elements (templates, chunks, plugins and snippets) from filesystem with database and reverse.
@@ -245,7 +247,7 @@ Nothing here yet.
 Nothing here yet.
 
 ### Other
-Nothing here yet.
+- [toggleTVSet](http://modx.com/extras/package/toggletvset) - Toggle the visibility of template variables sets by the value of a template variable.
 
 ## Contribute
 *Guidelines for contributing in this repository.*
