@@ -167,7 +167,9 @@ Nothing here yet.
 Nothing here yet.
 
 ### Email
-Nothing here yet.
+*Extras that can be used to send emails.*
+
+- [GoodNews](http://www.bitego.com/extras/goodnews/) - A powerful integrated group and newsletter mailing system (Premium Add-On!).
 
 ### Element Synchronization
 *Extras that synchronizes between static files and MODX Elements.*
